@@ -1,0 +1,22 @@
+{
+  "name": "tanks-a-lol",
+  "version": "1.0.0",
+  "description": "Ghetto 3D online tanks game.",
+  "main": "main.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:patrick-o-harrison/tanks-a-lol.git"
+  },
+  "keywords": [
+    "Tanks",
+    "Lol"
+  ],
+  "author": "Patrick Harrison <patrick.o.harrison@gmail.com>",
+  "license": "BSD-3",
+  "bugs": {
+    "url": "https://github.com/patrick-o-harrison/tanks-a-lol/issues"
+  },
+  "homepage": "https://github.com/patrick-o-harrison/tanks-a-lol"
+}
