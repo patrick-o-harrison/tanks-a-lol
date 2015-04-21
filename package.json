@@ -4,6 +4,7 @@
   "description": "Ghetto 3D online tanks game.",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/patrick-o-harrison/tanks-a-lol/issues"
   },
-  "homepage": "https://github.com/patrick-o-harrison/tanks-a-lol"
+  "homepage": "https://github.com/patrick-o-harrison/tanks-a-lol",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
